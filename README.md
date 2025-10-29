@@ -48,7 +48,7 @@ This tool is useful in the **post-exploitation** phase of pentesting, as well as
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/system-recon.git
+git clone https://github.com/Elabdera/system-recon.git
 cd system-recon
 ```
 
@@ -402,8 +402,8 @@ Services listening only on localhost can be tunneled:
 
 **Manuel Sánchez Gutiérrez**  
 - Email: manoloadra2@gmail.com  
-- LinkedIn: [linkedin.com/in/manuel-sanchez-gutierrez](https://www.linkedin.com/in/manuel-sánchez-gutiérrez-b534ab336/)  
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
+- LinkedIn: [linkedin.com/in/manuel-sanchez-gutierrez](https://www.linkedin.com/in/manuel-sanchez-gutierrez-b534ab336/)  
+- GitHub: [github.com/Elabdera](https://github.com/Elabdera)
 
 ---
 
